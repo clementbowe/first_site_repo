@@ -1,0 +1,23 @@
+[33mcommit 9b8ab7193f8fb67b14444de9dadbe44dabab30b1[m[33m ([m[1;36mHEAD -> [m[1;32mstep_3_create_posts[m[33m, [m[1;31morigin/step_3_create_posts[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Clement Bowe <clementbowe14@gmailcom>
+Date:   Fri Feb 21 14:30:39 2020 -0500
+
+    Show all blog posts on the current page
+
+[33mcommit b5576ce944e17c401d812307fb59ec1d3b55de73[m[33m ([m[1;31morigin/step_2_create_posts[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mstep_2_create_posts[m[33m)[m
+Author: Clement Bowe <clementbowe14@gmailcom>
+Date:   Thu Feb 20 20:10:26 2020 -0500
+
+    Added_ability_to_make_posts_from_admin
+
+[33mcommit 3ca778a997e4a58b72bec57abd20375f47cc1db5[m[33m ([m[1;31morigin/lol_step[m[33m, [m[1;32mlol_step[m[33m)[m
+Author: Clement Bowe <clementbowe14@gmailcom>
+Date:   Thu Feb 20 14:54:13 2020 -0500
+
+    add_gitignore_step
+
+[33mcommit ca751431bf28d9b3234f7052f7a874ef01764432[m
+Author: Clement Bowe <clementbowe14@gmailcom>
+Date:   Thu Feb 20 14:45:29 2020 -0500
+
+    first_site_commit
