@@ -7,6 +7,8 @@
                 <span class="date">
                   {{post.published_date}}
                 </span>
+                {% else %}
+              <a href="{% url 'post_publish' pk=post.pk %}"><<button type="button" name="button" class= "btn btn-primary">Publish</button> </a>
               </div>
             {% endif %}
             <h1>{{post.title}}</h1>
